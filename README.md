@@ -1,106 +1,130 @@
-# Zainab | Data Analyst
+<h1 align="center">Hi, I'm Zainab 👋</h1>
 
-### Building dreams through data.
+<h3 align="center">Data Analyst | Building dreams through data.</h3>
 
-I am a data analyst with a background in Accounting, Finance, and Management, passionate about transforming complex datasets into clear business insights and actionable solutions. My work focuses on data cleaning, dashboard development, business reporting, and data storytelling using modern analytics tools.
+<p align="center">
+Turning raw data into actionable business insights through analytics, dashboards, and storytelling.
+</p>
 
-With hands-on experience in Power BI, Excel, SQL and IBM Cognos Analytics, I enjoy building interactive dashboards and analytical reports that support smarter business decisions.
-
----
-
-## Professional Background
-
-I am currently completing an MBA in Management at Multimedia University, Malaysia, while also strengthening my technical foundation in Data Analytics.
-
-My academic and analytical background combines:
-
-- Accounting and Finance knowledge
-- Business and management understanding
-- Data analysis and reporting skills
-- Dashboard design and visualization
-- Problem-solving through data
-
-I have completed structured data analytics training through Digitaley Drive and ALX Africa, where I developed practical skills in data cleaning, transformation, visualization, and business analysis.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Data+Analyst;Power+BI+Developer;SQL+Enthusiast;Dashboard+Designer;Business+Intelligence+Learner" />
+</p>
 
 ---
 
-## Technical Skills
+## 👩‍💻 About Me
 
-### Analytics & BI Tools
-- Microsoft Excel
-- Power BI
-- SQL
-- IBM Cognos Analytics
-
-### Data & Query Languages
-- SQL
-- DAX
-
-### Core Competencies
-- Data Cleaning
-- Data Transformation
-- Dashboard Development
-- Data Visualization
-- KPI Reporting
-- Pivot Table Analysis
-- Business Analytics
-- Data Storytelling
-- Reporting & Insights
-- Data Modeling
+- 🎓 MBA in Management — Multimedia University, Malaysia
+- 📊 Data Analyst with a background in Accounting & Finance
+- 🌍 Nigerian based in Malaysia
+- 📈 Passionate about Business Intelligence & Data Storytelling
+- 💡 Focused on transforming raw data into meaningful business insights
+- 🚀 Currently building dashboards and analytical projects using modern BI tools
 
 ---
 
-## Featured Projects
+## 🛠 Tech Stack
 
-### Procurement Analytics Dashboard
-Developed an interactive procurement dashboard in Power BI focused on spend analysis, supplier performance, procurement trends, contract monitoring, and savings opportunities. The dashboard was designed to improve purchasing visibility and support strategic procurement decisions.
+### 📊 Analytics & BI Tools
 
-### Sales Pipeline Analytics Dashboard
-Developed a sales pipeline dashboard to track leads, opportunities, conversion stages, revenue potential, and sales performance metrics. The project focused on improving visibility into the sales process and supporting data-driven decision-making.
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IBM%20Cognos-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
+</p>
 
-### Excel Data Cleaning & Analysis Projects
-Performed structured data cleaning, transformation, and pivot-table-based analysis on business datasets to generate meaningful insights and improve reporting accuracy.
+### 💻 Languages & Query Tools
 
----
-
-## Certifications
-
-- Data Analytics Certification — Digitaley Drive
-- Data Analytics Certification — ALX Africa
-- Data Analytics Certification — IBM Coursera
-- MBA in Management — Multimedia University
-- Accounting & Finance Degree — University of Greenwich
+<p>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge"/>
+</p>
 
 ---
 
-## Current Focus
+## 📌 Core Competencies
 
-I am currently focused on:
-
-- Microsoft PL-300 Power BI Data Analyst Certification preparation
-- Data automation and optimization of reporting workflows
-
-
----
-
-## Career Interests
-
-I am interested in opportunities related to:
-
-- Data Analytics
-- Business Intelligence
-- Reporting & Visualization
-- Financial Analytics
-- Procurement Analytics
-- Business Reporting
+- Data Cleaning & Transformation  
+- Dashboard Development & Visualization  
+- KPI Reporting & Performance Analysis  
+- Business Analytics & Insights  
+- Data Storytelling & Reporting  
+- Data Modeling & Analysis  
+- Pivot Table Analysis  
 
 ---
 
-## Connect With Me
+## 🚀 Featured Projects
 
-- LinkedIn: https://www.linkedin.com/in/odzainab/
-- Portfolio: https://www.zainabodunlami.com
+### 📊 Procurement Analytics Dashboard
+
+✔ Spend Analysis  
+✔ Supplier Performance Tracking  
+✔ Procurement KPI Monitoring  
+✔ Savings Opportunity Analysis  
+✔ Interactive Power BI Dashboard  
+
+🔗 View Project
 
 ---
 
+### 📈 Sales Pipeline Analytics Dashboard
+
+✔ Lead Tracking  
+✔ Opportunity Management  
+✔ Revenue Analysis  
+✔ Conversion Funnel Monitoring  
+✔ Sales Performance Insights  
+
+🔗 View Project
+
+---
+
+### 📑 Excel Data Cleaning & Analysis Projects
+
+✔ Data Cleaning  
+✔ Data Transformation  
+✔ Pivot Table Analysis  
+✔ Reporting Accuracy Improvements  
+✔ Business Insight Generation  
+
+🔗 View Project
+
+---
+
+## 📜 Certifications
+
+- 📘 Data Analytics Certification — Digitaley Drive
+- 📘 Data Analytics Certification — ALX Africa
+- 📘 IBM Data Analytics Certification — Coursera
+- 🎓 MBA in Management — Multimedia University
+- 🎓 Accounting & Finance Degree — University of Greenwich
+
+---
+
+## 🌱 Currently Learning
+
+- Microsoft PL-300 Power BI Certification
+- Data Automation Workflows
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/odzainab/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://www.zainabodunlami.com">
+  <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
 ⭐ Passionate about continuous learning, analytical thinking, and using data to drive better decisions.
+</p>
